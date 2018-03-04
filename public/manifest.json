@@ -1,0 +1,8 @@
+{
+  "short_name": "Tic tac toe",
+  "name": "A simple tic tac toe game implementation",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
